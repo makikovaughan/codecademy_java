@@ -5,7 +5,7 @@ A Simple Car Loan Payment Calculator
     Car loan amount
     Interest rate of the loan
     Length of the loan (in years)
-    Down payment
+    Down payment 
 */
 public class CarLoan {
 
