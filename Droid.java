@@ -5,7 +5,7 @@ Build A Droid: Build some robots
 /*
 Droid class
 State:
-  name
+  name 
   battery level
 
 Behavior
